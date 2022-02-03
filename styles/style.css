@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+body {
+  font-family: "roboto";
+  background-color: #d1dbdd;
+  text-align: center;
+}
+
+.head-container {
+  text-align: center;
+  color: #001d3d;
+  font-size: 1.35rem;
+  padding: .5em;
+}
+
+h2 {
+  margin: 0em;
+}
+
+.qr-container {
+  background-color: #a9d6e5;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-filter: drop-shadow(0.5rem 0.5rem 1rem #22c5ee);
+          filter: drop-shadow(0.5rem 0.5rem 1rem #22c5ee);
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  text-align: justify;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 1em 2em;
+  border-radius: 30px;
+  max-width: 300px;
+}
+
+.qr-container .maintext {
+  margin-bottom: 1em;
+  color: #001d3d;
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+.qr-container .subtext {
+  padding: 0 2.2em;
+  margin: 1em 0;
+  color: #001d3d;
+  font-size: 1.2rem;
+}
+
+.qr-container button {
+  padding: 10px 20px;
+  border-radius: 100px;
+  border-width: 2px;
+  border-style: solid;
+  font-size: 1.2rem;
+  font-family: "roboto";
+  cursor: pointer;
+  -webkit-transition: 0.25s ease;
+  transition: 0.25s ease;
+  color: white;
+  margin-bottom: 1em;
+  background: #001d3d;
+}
+
+.qr-container button:hover {
+  background-color: #003566;
+}
+/*# sourceMappingURL=style.css.map */
