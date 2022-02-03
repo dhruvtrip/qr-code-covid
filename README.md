@@ -10,7 +10,7 @@ No package managers needed.
 
 ## Usage
 
-Scan the QR code for state wise covid testing facilities or redirect to vaccination centres on click. 
+Scan the QR code to get state-wise covid testing facilities or use the button to redirect to vaccination centres in the US. 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
