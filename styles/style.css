@@ -51,22 +51,10 @@ h2 {
   font-size: 1.2rem;
 }
 
-.qr-container button {
-  padding: 10px 20px;
-  border-radius: 100px;
-  border-width: 2px;
-  border-style: solid;
-  font-size: 1.2rem;
-  font-family: "roboto";
-  cursor: pointer;
-  -webkit-transition: 0.25s ease;
-  transition: 0.25s ease;
-  color: white;
-  margin-bottom: 1em;
-  background: #001d3d;
-}
-
-.qr-container button:hover {
-  background-color: #003566;
+.qr-container .message {
+  font-style: italic;
+  font-size: .9rem;
+  text-align: center;
+  padding: inherit;
 }
 /*# sourceMappingURL=style.css.map */

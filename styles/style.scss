@@ -48,23 +48,32 @@ h2{
         font-size: 1.2rem;
     }
 
-    button {
-        padding: 10px 20px;
-        border-radius: 100px;
-        border-width: 2px;
-        border-style: solid;
-        font-size: 1.2rem;
-        font-family: $font-style;
-        cursor: pointer;
-        transition: 0.25s ease; 
-        color: white;
-        margin-bottom: 1em;
-        background: $prim-font-color; 
+    .message{
+        font-style: italic;
+        font-size: .9rem;
+        text-align: center;
+        padding: inherit;
     }
 
-    button:hover {
-        background-color: $sec-font-color;
-    }
+    
+
+    // button {
+    //     padding: 10px 20px;
+    //     border-radius: 100px;
+    //     border-width: 2px;
+    //     border-style: solid;
+    //     font-size: 1.2rem;
+    //     font-family: $font-style;
+    //     cursor: pointer;
+    //     transition: 0.25s ease; 
+    //     color: white;
+    //     margin-bottom: 1em;
+    //     background: $prim-font-color; 
+    // }
+
+    // button:hover {
+    //     background-color: $sec-font-color;
+    // }
 }
 
 
